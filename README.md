@@ -58,7 +58,7 @@ These code examples are based on our online documentation and on the migration g
 
 To use your merchantId on our WL Sips 2.0 production servers, please contact the WL Sips support beforehand by e-mail [sips@worldline.com](mailto:sips@worldline.com) or at 0 811 10 70 33.
 
-For more information, please refer to the [SIPs Paypage JSON documentation](https://documentation.sips.worldline.com/en/WLSIPS.316-UG-Sips-Paypage-JSON.html).
+For more information, please refer to the [Sips Paypage JSON documentation](https://documentation.sips.worldline.com/en/WLSIPS.316-UG-Sips-Paypage-JSON.html).
 
 ### License
 
